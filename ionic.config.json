@@ -1,0 +1,8 @@
+{
+  "name": "QRReader",
+  "app_id": "d449f5cd",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
